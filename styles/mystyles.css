@@ -1,0 +1,66 @@
+
+/*overrides for aboutme page*/
+
+.resumeheader{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.resume{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer{
+        left: 5px;
+        right: 5px;
+        font-size: 14px;
+        color: rgb(22, 22, 22);
+        text-align: center;
+        position: top;
+        font-style: italic;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+/*not used*/
+.header{
+    font-weight: bolder;
+    font-size: 100px;
+    display: block;
+
+}
+
+.subheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    
+}
+
+.background{
+    background-color: rgb(255, 255, 255);
+}
+
+.subheaderbold{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+
+
+}
